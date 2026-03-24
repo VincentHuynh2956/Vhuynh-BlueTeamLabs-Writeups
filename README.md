@@ -1,3 +1,4 @@
-# Investigation Link
+# This is a Repo of all the Writeups for any Blue Team Labs I complete. Links Below
 
-https://blueteamlabs.online/home/investigation/piggy-aij2bd8h2
+## BTLO Piggy Investigation
+* Investigation Writeup [Here](Writeup.md)
