@@ -1,7 +1,9 @@
 # This is a Repo of all the Writeups for any Blue Team Labs I complete. Links Below
 
-## BTLO Piggy Investigation
-* Investigation Writeup [Here](BTLO-Piggy-Writeup.md)
+## BTLO Investigations
+* Piggy Investigation Writeup [Here](BTLO-Piggy-Writeup.md)
+* Powershell Keylogger Analysis [Here](BTLO-PowershellAnalysis-Keylogger.md)
 
 ## CyberDefenders Webstrike
-* Investigation Writeup [Here](CyberDefender-CTF-Webstrike.md) 
+* Investigation Writeup [Here](CyberDefender-CTF-Webstrike.md)
+
