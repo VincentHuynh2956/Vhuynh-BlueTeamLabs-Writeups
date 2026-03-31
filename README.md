@@ -3,6 +3,7 @@
 ## BTLO Investigations
 * Piggy Investigation Writeup [Here](BTLO-Piggy-Writeup.md)
 * Powershell Keylogger Analysis [Here](BTLO-PowershellAnalysis-Keylogger.md)
+* Bruteforce Challenge [Here](BTLO-Bruteforce.md)
 
 ## CyberDefenders Webstrike
 * Investigation Writeup [Here](CyberDefender-CTF-Webstrike.md)
